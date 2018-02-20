@@ -1,10 +1,6 @@
 # Numpy_Introduction
-NumPy is the fundamental package for scientific computing with Python. It contains among other things:
+Successfully achieved Data Extraction and Data Exploration which are the two major goals in this project.
+In this project, I used most powerful package for scientific computing with Python called "Numpy".
+There are two datasets "boston" and "iris" which are in CSV format.
 
-a powerful N-dimensional array object
-sophisticated (broadcasting) functions
-tools for integrating C/C++ and Fortran code
-useful linear algebra, Fourier transform, and random number capabilities
-Besides its obvious scientific uses, NumPy can also be used as an efficient multi-dimensional container of generic data. Arbitrary data-types can be defined. This allows NumPy to seamlessly and speedily integrate with a wide variety of databases.
 
-Source: http://www.numpy.org/
